@@ -1,4 +1,4 @@
-
+'''this is costom function'''
 def multi(x,y):
     '''this is multiplication function
     to multiply of two numbers'''
